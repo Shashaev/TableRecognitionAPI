@@ -1,0 +1,4 @@
+fastapi[standard]==0.135.2
+paddleocr[all]==3.4.0
+paddlepaddle==3.3.0 -i https://www.paddlepaddle.org.cn/packages/stable/cpu/
+torch==2.11.0
